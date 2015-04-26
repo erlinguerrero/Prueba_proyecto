@@ -37,10 +37,6 @@ public class Opcion1_inicio extends ActionBarActivity {
                 Intent main = new Intent(this, MainActivity.class);
                 startActivity(main);
                 return true;
-            case R.id.opcion1:
-                Intent opc1 = new Intent(this, Opcion1_inicio.class);
-                startActivity(opc1);
-                return true;
 
             default: return super.onOptionsItemSelected(item);
         }
