@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prueba_proyecto</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_opcion1_inicio">Opcion1_inicio</string>
+    <string name="inicio">Inicio</string>
+    <string name="opcion1">Opcion1</string>
+</resources>
